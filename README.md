@@ -1,4 +1,4 @@
-# rona
+# Corona 🦠
 
 ## Project setup
 ```
